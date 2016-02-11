@@ -41,7 +41,7 @@ h1 {
 }
 
 .horizontal-nav li a:hover {
-  background-color: #ff332a
+  background-color: #ff332a;
 }
 
 *, *::before, *::after {
